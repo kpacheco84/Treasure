@@ -6,6 +6,7 @@ import colors from "../config/colors";
 import ListItem from "../components/ListItem";
 
 
+
 function ListingDetailsScreen(props) {
     return (
         <View>
